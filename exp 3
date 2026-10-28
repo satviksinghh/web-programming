@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Timetable</title>
+</head>
+<body>
+    <p align="center">College Timetable --> AIML - 5</p>
+    <table border="3" align="center">
+        <tr>
+            <th rowspan="2"><pre>Time 
+                
+Day </pre></th>
+            <th>I</th>
+            <th>II</th>
+            <th>III</th>
+            <th>IV</th>
+            <th>V</th>
+            <th>VI</th>
+            <th>VII</th>
+            <th>VIII</th>
+            <th>IX</th>
+        </tr>
+        <tr>
+            <th>8:50-9:40</th>
+            <th>9:40-10:30</th>
+            <th>10:40-11:30</th>
+            <th>11:30-12:20</th>
+            <th>12:20-1:10</th>
+            <th>1:10-2:00</th>
+            <th>2:00-2:50</th>
+            <th>2:50-3:40</th>
+            <th>3:40-4:30</th>
+        </tr>
+        <tr>
+            <th>Monday</th>
+            <th colspan="2"><pre>25EL151
+(STI,DVV)
+RJ-Basement
+            </pre></th>
+            <th><pre>25AS102
+(RK)
+RJ205
+            </pre></th>
+            <th><pre>25AS101
+(RKT)
+RJ205
+            </pre></th>
+            <th rowspan="9">Lunch</th>
+            <th><pre>25EL101
+(STI)
+RJ-202
+            </pre></th>
+            <th><pre>25AS102
+(RK,PJ)
+RJ-202
+            </pre></th>
+            <th><pre>25AI101
+(PPS)
+RJ-202
+            </pre></th>
+            <th><pre>25CS101
+(SJ)
+RJ-202
+            </pre></th>
+        </tr>
+        <tr>
+            <th>Tuesday</th>
+            <th><pre>25AS101
+(RKT)
+RJ203
+            </pre></th>
+            <th><pre>25AI101
+(PPS)
+RJ-203
+            </pre></th>
+            <th><pre>25AS102
+(RK)
+RJ203
+            </pre></th>
+            <th><pre>25EL101
+(STI)
+RJ-203
+            </pre></th>
+            <th colspan="2"><pre>25CS151
+(SJ,AMS)
+Group-1.KCLG08,Group-2.KCLG09
+            </pre></th>
+            <th><pre>25AS102
+(RK)
+BH-308
+            </pre></th>
+            <th><pre>25AS103
+(TR)
+BH-308
+            </pre></th>
+            
+        </tr>
+        <tr>
+            <th>Wednesday</th>
+            <th><pre>25AS102
+(RK)
+RJ-203
+            </pre></th>
+            <th><pre>25AS101
+(RKT)
+RJ-203
+            </pre></th>
+            <th><pre>25CS101
+(SJ)
+RJ-203
+            </pre></th>
+            <th><pre>25EL101
+(STI)
+RJ-203
+            </pre></th>
+            <th colspan="2"><pre>25VA151
+(SYS)
+Group-1 & Group-2, KC-509
+            </pre></th>
+            <th><pre>Mentor-Mentee
+(STI,PPS,SG)
+KC-509
+            </pre></th>
+        </tr>
+        <tr>
+            <th>Thursday</th>
+            <th><pre>25CS101
+(SJ)
+RJ-202
+            </pre></th>
+            <th><pre>25AS102
+(RK)
+RJ-202
+            </pre></th>
+            <th><pre>25EL101
+(STI)
+RJ-202
+            </pre></th>
+            <th><pre>25AS101
+(RKT)
+RJ-202
+            </pre></th>
+            <th colspan="2"><pre>25ME152
+(RVA,AD)
+RJ Block I Floor (RJ-109)
+            </pre></th>
+            <th><pre>25AS103
+(TR)
+RJ-201
+            </pre></th>
+            <th><pre>25VA101
+(SYS)
+RJ-201
+            </pre></th>
+        </tr>
+        <tr>
+            <th>Friday</th>
+            <th><pre>25AS101
+(RKT)
+BH-309
+            </pre></th>
+            <th><pre>25AS103
+(TR)
+BH-309
+            </pre></th>
+            <th colspan="2"><pre>25AS151
+(AG,RSA)
+KC Block III Floor (KC-310)
+            </pre></th>
+            <th><pre>25EL101
+(STI)
+RJ-203
+            </pre></th>
+            <th><pre>25AI101
+(PPS)
+RJ-203
+            </pre></th>
+            <th><pre>25AS102
+(RK)
+RJ-203
+            </pre></th>
+            <th><pre>25CS101
+(SJ)
+RJ-203
+            </pre></th>
+        </tr>
+    </table>
+</body>
+</html>
