@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Daily news</title>
+</head>
+<body>
+    <h1 align="center">Global Daily News</h1>
+    <p align="center">Your Trusted Source for Latest Updates</p>
+    <hr>
+    <nav align="center">
+        <a href="#world">Woarld</a> |
+        <a href="#gaming">Gaming</a> |
+        <a href="#entertainment">Entertainment</a> |
+        <a href="#podcast">Podcast</a> |
+        <a href="#contact">Contact</a> 
+    </nav>
+    <hr>
+    <h2 id="world">World News</h2>
+    <p>Today's top headline: Global leaders meet to discuss climate change initiatives.</p>
+    <img src="https://images.successstory.com/img_company/company_1435923313.jpg" height="315px" width="560px"/>
+    <br>
+    <br>
+    <a href="https://bbc.com" target="_action">Read more on BBC</a>
+    <h1 id="gaming">Gaming Update</h1>
+    <p>Highlights of yesterdary's E-sports match with thrilling last-minute victory.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2l4qzBi07QI?si=reNrQ1G3VCbJnC6v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <hr>
+    <h1 id="entertainment">Entertainment Buzz</h1>
+    <p>New movie trailer released today. Fans are excited!</p>
+    <video width="560" height="315" controls>
+        <source src="https://www.youtube.com/embed/hvKW6iDOZrc?si=d9AmeN5FNzChQxX_" type="video/mp4">
+    </video>
+    <hr>
+    <h1 id="podcast">News Podcast</h1>
+    <p>Listen to today's top headlines:</p>
+    <audio controls>
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+    </audio>
+    <hr>
+    <h1 id="contact">Contact Us</h1>
+    <p>Email: info@globalnews.com</p>
+    <footer>
+        <p>&copy; 2025 Global Daily News. All rights reserved.</p>
+    </footer>
+</body>
+</html>
