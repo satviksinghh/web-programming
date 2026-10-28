@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Course Curriculum</title>
+        <body>
+            <h1>Introduction</h1>
+            <p>Welcome to the Course Curriculum. This page demonstrates the use of HTML formatting, lists, and special characters such as ©, <, >.</p>
+            <h1>Semester 1 Subjects (Ordered List)</h1>
+            <ol>
+                <li> Mathematics</li>
+                <li> essentials of AI</li>
+                <li> Programming in C++</li>
+                <li> Basics of electrical engineering </li>
+            </ol>
+            <h1>Programming Languages (Unordered List)</h1>
+            <ul>
+                <li>C</li>
+                <li>Java</li>
+                <li>Python</li>
+                <li>JavaScript</li>
+            </ul>
+            <h1>Course Description (Description List)</h1>
+            <dl>
+                <dt><b>C Programming</b></dt>
+                <dd>Learn basics of C language including loops, arrays, and functions.</dd>
+                <dt><b>Java</b></dt>
+                <dd>Introduction to Object-Oriented Programming concepts.</dd>
+            </dl>
+            <h1>Course Modules (Nested List)</h1>
+            <ol>
+                <li><b>Module 1: Basics</b></li>
+                <ul>
+                    <li>Introduction</li>
+                    <li>History of Computers</li>
+                </ul>
+                <li><b>Module 2: Programming</b></li>
+                <ul>
+                    <li>Variables and Data Types</li>
+                    <li>Control Structures</li>
+                </ul>
+            </ol>
+            <h1>Project Work (Mixed List)</h1>
+            <ul>
+                <li>Web Development</li>
+                <ol>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ol>
+            </ul>
+            <ul>
+                <li>Database</li>
+                <ol type="A">
+                    <li>MySQL</li>
+                    <li>MongoDB</li>
+                </ol>
+            </ul>
+        </body>
+</html>
